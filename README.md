@@ -40,6 +40,10 @@ A collection of samples demonstrating different frameworks and techniques for au
 
 **[BasicSample](https://github.com/googlesamples/android-testing/blob/master/ui/espresso/BasicSample)** - Simple usage of `ActivityTestRule`
 
+**[BasicSample-kotlinApp](https://github.com/googlesamples/android-testing/blob/master/ui/espresso/BasicSample-kotlinApp)** - Simple usage of `ActivityTestRule` with Kotlin
+
+**[BasicSample-kotlinAppDetektGradle4.9](https://github.com/googlesamples/android-testing/blob/master/ui/espresso/BasicSample-kotlinAppDetektGradle4.9)** - Simple usage of `ActivityTestRule` with Kotlin, Detekt and Gradle 4.9
+
 **[IntentsBasicSample](https://github.com/googlesamples/android-testing/blob/master/ui/espresso/IntentsBasicSample)** - Simple usage of `IntentsTestRule`
 
 **[ServiceTestRuleSample](https://github.com/googlesamples/android-testing/tree/master/integration/ServiceTestRuleSample)** - Simple usage of `ServiceTestRule`
